@@ -1,0 +1,4 @@
+- 👋 Hi, I’m 沐星辞 | muxingci
+- 🌱 I’m interested in ML|DL|LLM|Python and Software Test
+- 😄 Pronouns: 小白
+- 📫 @me...
