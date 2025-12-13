@@ -1,5 +1,5 @@
 
-# 🌊 你好！我是沐星辞 | Hi there! I'm muxingci 🗡️
+# 🌊 你好！我是沐星辞 | Hi there! I'm StellarenaM 🗡️
 
 ⚡ **代码敲碎 bug，逻辑编织星河**  
 🌌 *Code smashes bugs, logic weaves the galaxy*
