@@ -67,7 +67,7 @@
 ## ⏳ 编程报告 | WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%202%20mins-blue)
 
 **🐱 我的 GitHub 数据** 
 
@@ -131,7 +131,7 @@ Windows                  16 hrs 13 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/StellarenaM/StellarenaM/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 13:09:18 UTC
+ Last Updated on 16/12/2025 18:18:13 UTC
 <!--END_SECTION:waka-->
 
 ---
